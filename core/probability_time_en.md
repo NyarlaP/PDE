@@ -13,9 +13,8 @@ Classical debates pit:
 
 PDE proposes a third position:
 
-> At the base there is deterministic, infinitely recursive spin in virtual dimensions;  
-> probability is our coarse‑grained image of this spin under finite compute;  
-> statistical laws are probability clouds smoothed a second time at the macro scale.
+> The "point" is a segment or volume‑like object rotating on many levels of mutually orthogonal virtual surfaces/volumes; the projection of this rotation onto our observation axis is what we see as probability (like a segment rotating in the complex plane projected onto the real axis);  
+> statistical laws are probability clouds smoothed a second time at the macro scale. (Whether the spin is deterministic is outside our light cone; for us it is ineluctably random.)
 
 Two recurring slogans:
 
@@ -24,7 +23,7 @@ Two recurring slogans:
 
 ---
 
-### 2. Layer 1: deterministic recursive spin
+### 2. Layer 1: rotation on many orthogonal virtual surfaces/volumes
 
 Building on the geometry layer:
 
@@ -44,7 +43,7 @@ At this layer, strictly speaking, **there is no probability, only inaccessible d
 
 ---
 
-### 3. Layer 2: first collapse – spin → probability cloud
+### 3. Layer 2: first collapse – projection of rotation → probability cloud
 
 When we give up on fine‑grained tracking and look at coarse time scales, the first collapse happens:
 
@@ -53,13 +52,12 @@ When we give up on fine‑grained tracking and look at coarse time scales, the f
 
 In PDE language:
 
-1. Deterministic spin on \(F_x\), under projection + time‑averaging, becomes a **probability cloud** \(P(x)\):  
-   \[
-   \text{Spin on } F_x \Rightarrow \text{probability cloud } P(x) .
+1. The motion of the segment or volume rotating on the many orthogonal virtual surfaces/volumes projects onto our observation axis; under time- or ensemble-averaging this becomes a **probability cloud** \(P(x)\). (We no longer ask about exact phase on the infinite virtual axes – that distribution **is** probability, the observable face of ineluctable randomness.)    \[
+   \text{Projection of rotation on } F \;\Rightarrow\; \text{Probability cloud } P(x) .
    \]
 2. We no longer ask “Where is the system exactly now?”, but “With what frequency does it visit each region?”.
 
-Probability distributions (classical or quantum) appear at this level as **compressed images** of underlying spin.
+Probability distributions (classical or quantum) appear at this level as **projection** of rotation we cannot fully observe.
 
 ---
 
@@ -81,8 +79,9 @@ The second collapse:
 
 Schematically:
 \[
-\text{deterministic spin} \;\Rightarrow\; \text{probability cloud} \;\Rightarrow\; \text{statistical law} .
+\text{Projection of rotation on infinite virtual axes} \;\Rightarrow\; \text{probability cloud} \;\Rightarrow\; \text{statistical law} .
 \]
+(Whether the rotation is deterministic is not decidable by us; observationally it is ineluctably random.)
 
 ---
 
@@ -90,7 +89,7 @@ Schematically:
 
 PDE’s key move is to tie probability to **finite compute**:
 
-- the spin’s evolution is (postulated to be) deterministic in principle;  
+- the spin’s whether the spin is deterministic is not decidable by us (it lies outside our light cone); for us it is observationally ineluctably random (outside our light cone); for us observationally ineluctably random;  
 - but exact prediction would require:
   - infinite precision in initial phase;  
   - the ability to simulate an infinitely recursive structure.  
